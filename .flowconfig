@@ -1,0 +1,17 @@
+[ignore]
+.*node_modules/fbjs.*
+.*/src/actions/.*
+.*/src/store/.*
+.*/src/registerServiceWorker\.js
+.*src/index\.js
+.*\.test\.js
+[include]
+
+[libs]
+decls
+[lints]
+
+[options]
+
+
+[strict]
